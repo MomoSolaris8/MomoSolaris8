@@ -3,7 +3,7 @@
 <div align="center">
 <h1> 🔆 🌩️ Hi there, I'm <a >Momo :dart: On the way to Software Engineering</a> </h1>
  
-![](https://komarev.com/ghpvc/?username=MomoSolaris8)
+
 
 
 
