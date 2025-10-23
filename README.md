@@ -1,36 +1,32 @@
  
+<div align="center"><h1 align="center">Hi there, I'm Yu Heydemann 👋</h1><em>Full-Stack Developer & Open Source Enthusiast</em></p></div><br />
 
-<div align="center">
-<h1> 🔭 Hi there, I'm <a >Momo :dart: Software  Engineer</a> </h1>
- 
+## 👨‍💻 About Me
+I'm a passionate software engineer with a strong focus on web security and full-stack development.
+I love building secure, scalable, and maintainable systems using technologies like Spring Boot, Angular, Docker, and Kubernetes.
+
+I feel most at home when designing clean architectures, automating workflows with CI/CD pipelines, and turning complex problems into elegant solutions.
 
 
+## 🚀 Currently Working 
 
+You can check out my full portfolio at [https://momosolaris8.github.io/portfolio/](https://momosolaris8.github.io/portfolio/).
 
-  
- 💼 Skills
- 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=4AB197)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=4AB197)
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
-</tr>
-  
-  
-  
-  
+## 🛠️ My Tech Stack
+Here are some of the tools and technologies I love to work with: <br><br>
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,python,linux,grafana,docker,js,azure,mongodb)](https://skillicons.dev)
+
+## 📫 How to Reach Me
+Feel free to connect with me!
+
+<p align="center">
+<a href="https://momosolaris8.github.io/portfolio/">🐙 Portfolio</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="mailto:yuheydemann@outlook.de">📧 Email</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/yu-h-54686414a/">💼 LinkedIn</a>
+</p>
+
   
   
   
