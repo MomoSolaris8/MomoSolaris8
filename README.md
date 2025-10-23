@@ -10,7 +10,7 @@ I feel most at home when designing clean architectures, automating workflows wit
 
 ## 🚀 Currently Working 
 
-You can check out my full portfolio at [https://momosolaris8.github.io/portfolio/](https://github.com/MomoSolaris8/profilecv).
+You can check out my full portfolio at [https://momosolaris8.github.io/portfolio/](https://profilecv-zeta.vercel.app/).
 
 ## 🛠️ My Tech Stack
 Here are some of the tools and technologies I love to work with: <br><br>
