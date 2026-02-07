@@ -2,11 +2,11 @@
 <div align="center"><h1 align="center">Hi there, I'm Yu Heydemann 👋</h1><em>Full-Stack Developer & Open Source Enthusiast</em></p></div><br />
 
 ## 👨‍💻 About Me
-I'm a passionate software engineer with a strong focus on web security and full-stack development.
-I love building secure, scalable, and maintainable systems using technologies like Spring Boot, Angular, Docker, and Kubernetes.
+I’m a software engineer focused on cloud computing, web development, and backend architecture. 
+I specialize in high-level system design and building scalable, efficient solutions. I’m passionate about integrating AI ,especially LLMs to optimize backend systems and automate workflows. 
 
-I feel most at home when designing clean architectures, automating workflows with CI/CD pipelines, and turning complex problems into elegant solutions.
-
+I value hands-on learning, teamwork, and continuous improvement, aiming to shape intelligent, future-ready architectures.
+let's connect!
 
 ## 🚀 Currently Working 
 
