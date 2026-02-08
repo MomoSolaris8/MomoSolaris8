@@ -1,5 +1,5 @@
  
-<div align="center"><h1 align="center">Hi there, I'm Yu Heydemann 👋</h1><em>Full-Stack Developer & Open Source Enthusiast</em></p></div><br />
+<div align="center"><h1 align="center">Hi there, I'm Yu Heydemann 👋</h1><em>Software engineer</em></p></div><br />
 
 ## 👨‍💻 About Me
 I’m a software engineer focused on cloud computing, web development, and backend architecture. 
