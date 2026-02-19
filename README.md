@@ -10,7 +10,7 @@ let's connect!
 
 ## 🚀 Currently Working 
 
-You can check out my full portfolio at [https://profilecv-zeta.vercel.app/](https://profilecv-zeta.vercel.app/).
+System Design, AI Production Security, Agentic Agent, OpenClaw.....
 
 ## 🛠️ My Tech Stack
 Here are some of the tools and technologies I love to work with: <br><br>
