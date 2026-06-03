@@ -1,6 +1,8 @@
  
 <div align="center"><h1 align="center">Hi there, I'm Yu Heydemann </h1><em>Software engineer</em></p></div><br />
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=momosunshine5&color=blue" alt="Profile Views" />
+</p>
 ## 👨‍💻 About Me
 - 🔥 Building Agentic AI Infrastructure & Tooling Ecosystem (MCP)
 - 💻 Full-stack developer crafting high-performance industrial software
