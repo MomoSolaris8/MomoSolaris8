@@ -25,7 +25,7 @@ let's connect!
 
 ## 🚀 Currently Working 
 
-System Design, AI Production Security, Agentic Agent, OpenClaw.....
+System Design, AI Production Security, Agentic Agent, harness Engineering, graph Enginnering...
 
 ### 🤖 AI, GenAI & Software 3.0
 > Focus on maximizing token leverage, building resilient tool-use schemas (MCP), and optimizing multi-agent context windows.
