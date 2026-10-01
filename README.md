@@ -1,7 +1,26 @@
  
-<div align="center"><h1 align="center">Hi there ，I am Momo</h1><em>Software engineer</em></p></div><br />
+<div align="center">
+  <h1>Hi there, I'm Momo</h1>
+  <em>Software Engineer</em>
+</div>
+
+<br />
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=momosunshine5&color=blue" alt="Profile Views" />
+  <img
+    src="https://komarev.com/ghpvc/?username=momosunshine5&color=blue"
+    alt="Profile Views"
+  />
+</p>
+
+<h3>My way of learning: BFS → DFS</h3>
+
+<p>
+  <strong>BFS:</strong> I explore whatever sparks my curiosity
+  and keep learning fun.
+  <br />
+  <strong>DFS:</strong> I dive deep and build solid projects
+  that real users depend on.
 </p>
 
 ## 👨‍💻 About Me
