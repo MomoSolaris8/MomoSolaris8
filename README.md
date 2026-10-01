@@ -6,12 +6,7 @@
 
 <br />
 
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=momosunshine5&color=blue"
-    alt="Profile Views"
-  />
-</p>
+
 
 <h3>My way of learning: BFS → DFS</h3>
 
