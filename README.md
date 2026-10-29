@@ -1,11 +1,16 @@
  
 <div align="center">
+  <img src="./banner.png" alt="Momo's banner" width="100%" />
+</div>
+
+<br />
+
+<div align="center">
   <h1>Hi there, I'm Momo</h1>
   <em>Software Engineer</em>
 </div>
 
 <br />
-
 
 
 <h3>My way of learning: BFS → DFS</h3>
